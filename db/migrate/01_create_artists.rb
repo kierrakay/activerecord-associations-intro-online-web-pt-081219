@@ -11,3 +11,5 @@ end
 
 
 #once everything is built dont forget to migrate the tables with rake db:migrate
+
+#running rake console to play around in pry
